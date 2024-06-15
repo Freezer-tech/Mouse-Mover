@@ -1,10 +1,10 @@
 # Mouse Mover
 
-Mouse mover is a simply mouse mover that use tkinter and pyautogui 
+Mouse mover is a simple mouse mover that uses tkinter and pyautogui 
 
 ## What does it do?
 
-It let you define the timing (in hours),to start and stop the app
+It lets you define the timing (in hours), to start and stop the app that will move the mouse for you to avoid the sleep of your OS
 
 ## What is needed?
 
